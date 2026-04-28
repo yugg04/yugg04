@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm</h3>
 <h1 align="center"> Yug Khatri</h1>
-<h3 align="center">AI Systems Engineer •  Backend Engineer</h3>
+<h3 align="center">AI/ML Engineer • Python Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yug04/">
@@ -100,11 +100,8 @@ AI-powered system that converts **unstructured movie descriptions → structured
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugg04&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugg04&theme=tokyonight&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=yugg04&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
