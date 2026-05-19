@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:7F5AF0,50:00C2FF,75:2CB67D,100:0EA5E9&height=300&section=header&text=Yug%20Khatri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20Python%20Developer%20•%20AI%20ML%20GenAI%20Developer&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,25:1E3A8A,50:2563EB,75:06B6D4,100:14B8A6&height=300&section=header&text=Yug%20Khatri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20Python%20Developer%20•%20AI%20ML%20GenAI%20Developer&descAlignY=60&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=7F5AF0&center=true&vCenter=true&width=1100&lines=Building+Production-Ready+AI+Systems;RAG+Pipelines+%2B+LLM+Applications;FastAPI+%2B+Scalable+Backend+Infrastructure;Turning+AI+Ideas+Into+Real+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&lines=Building+Practical+AI+Applications;RAG+Pipelines+%2B+LLM+Systems;FastAPI+%2B+Scalable+Backend+Engineering;Turning+Ideas+Into+Real+AI+Products"/>
 
 </div>
 
@@ -15,16 +15,15 @@
 
 # 👋 About Me
 
-I’m a Computer Engineering student passionate about building practical AI applications and scalable backend systems.
+I’m Yug Khatri, a Computer Engineering student who enjoys building practical AI applications and scalable backend systems.
 
-My work mainly focuses on:
+Most of my projects revolve around:
 - Retrieval-Augmented Generation (RAG)
 - LLM-powered applications
-- FastAPI backend engineering
+- FastAPI backend development
 - AI infrastructure & deployment
-- Semantic search systems
 
-I enjoy transforming AI concepts into deployable products that are modular, scalable, and built for real-world usage.
+I like creating AI products that are not just experimental demos, but systems that people can actually use in real-world scenarios.
 
 ---
 
@@ -56,7 +55,7 @@ I enjoy transforming AI concepts into deployable products that are modular, scal
 
 ## 🧠 Ragora AI — Enterprise RAG Platform
 
-Production-grade Retrieval-Augmented Generation infrastructure engineered for scalable semantic retrieval and conversational AI systems.
+Production-grade Retrieval-Augmented Generation platform designed for scalable semantic retrieval and conversational AI systems.
 
 ### ✨ Core Features
 
@@ -64,8 +63,8 @@ Production-grade Retrieval-Augmented Generation infrastructure engineered for sc
 - Streaming conversational AI
 - Persistent vector database support
 - Context-grounded response generation
-- Authentication & protected APIs
-- Async FastAPI backend infrastructure
+- Secure authentication system
+- Async FastAPI backend architecture
 - Dockerized deployment workflows
 
 ### ⚙️ Tech Stack
@@ -86,7 +85,15 @@ Production-grade Retrieval-Augmented Generation infrastructure engineered for sc
 
 AI-powered document intelligence platform enabling users to upload PDFs and interact conversationally with documents using semantic retrieval.
 
-### ⚙️ Stack
+### ✨ Core Features
+
+- Retrieval-Augmented Generation pipeline
+- Context-aware AI responses
+- Semantic vector search
+- Source chunk tracing
+- Interactive Streamlit interface
+
+### ⚙️ Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
@@ -103,7 +110,14 @@ AI-powered document intelligence platform enabling users to upload PDFs and inte
 
 LLM-powered extraction engine that transforms unstructured movie descriptions into validated structured JSON outputs.
 
-### ⚙️ Stack
+### ✨ Core Features
+
+- Intelligent metadata extraction
+- Structured JSON generation
+- Schema-validated outputs
+- AI-powered text processing pipeline
+
+### ⚙️ Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
@@ -120,7 +134,14 @@ LLM-powered extraction engine that transforms unstructured movie descriptions in
 
 Machine learning platform designed to recommend optimal crops using environmental and soil conditions.
 
-### ⚙️ Stack
+### ✨ Core Features
+
+- Soil & climate-based prediction
+- Ranked crop recommendations
+- ML inference pipeline
+- Integrated frontend/backend workflow
+
+### ⚙️ Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,java,python,mysql"/>
@@ -131,7 +152,7 @@ Machine learning platform designed to recommend optimal crops using environmenta
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -139,19 +160,27 @@ Machine learning platform designed to recommend optimal crops using environmenta
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugg04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
 ---
 
-# 🔥 GitHub Activity
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugg04&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugg04&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6"/>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=7F5AF0"/>
+<img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -159,7 +188,7 @@ Machine learning platform designed to recommend optimal crops using environmenta
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:7F5AF0,50:00C2FF,75:2CB67D,100:0EA5E9&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,25:1E3A8A,50:2563EB,75:06B6D4,100:14B8A6&height=140&section=footer"/>
 
 </div>
 
