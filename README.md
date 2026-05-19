@@ -1,14 +1,15 @@
+````md id="d9q2ma"
+<!-- HEADER -->
 
-<!-- PREMIUM HEADER -->
-
-<h1 align="center">Yug Khatri</h1>
+<h1 align="center">Hey 👋 I'm Yug Khatri</h1>
 
 <h3 align="center">
-Computer Engineering Student • AI Engineer • GenAI Systems Developer
+Computer Engineering Student • Python Developer • AI/ML & GenAI Developer
 </h3>
 
 <p align="center">
-  Building scalable AI systems, RAG pipelines, and production-ready backend infrastructure.
+I’m a Computer Engineering student passionate about building practical AI applications and scalable backend systems.
+I enjoy working on RAG pipelines, LLM applications, FastAPI services, and production-focused AI projects.
 </p>
 
 ---
@@ -16,17 +17,17 @@ Computer Engineering Student • AI Engineer • GenAI Systems Developer
 <!-- ANIMATED TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=Building+Production-Grade+AI+Systems;RAG+Pipelines+%2B+LLM+Applications;FastAPI+%2B+AI+Infrastructure;Production-Ready+AI+Engineering"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=Building+Production-Grade+AI+Systems;RAG+Pipelines+%2B+LLM+Applications;FastAPI+%2B+AI+Infrastructure;Turning+AI+Ideas+Into+Real+Products"/>
 </p>
 
 ---
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIALS -->
 
 <p align="center">
 
 <a href="https://github.com/yugg04">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yug04/">
@@ -45,15 +46,19 @@ Computer Engineering Student • AI Engineer • GenAI Systems Developer
 
 ---
 
-# ⚡ Engineering Focus
+# ⚡ About Me
 
 ```python
 class YugKhatri:
 
     def __init__(self):
-        self.role = "AI Engineer"
+        self.role = [
+            "Python Developer",
+            "AI/ML Developer",
+            "GenAI Developer"
+        ]
 
-        self.specialization = [
+        self.interests = [
             "RAG Systems",
             "LLM Applications",
             "FastAPI Backends",
@@ -63,9 +68,8 @@ class YugKhatri:
     def build(self):
         return [
             "Production AI Systems",
-            "Retrieval Pipelines",
-            "Inference APIs",
-            "Scalable AI Services"
+            "Scalable APIs",
+            "Intelligent Applications"
         ]
 ````
 
@@ -75,7 +79,7 @@ class YugKhatri:
 
 ## 🧠 Ragora AI — Multi-Document RAG Platform
 
-> Production-oriented RAG architecture for intelligent document interaction.
+Production-oriented RAG system designed for intelligent document interaction.
 
 ### ✨ Features
 
@@ -146,18 +150,6 @@ ML-powered agricultural recommendation platform.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yugg04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugg04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -166,23 +158,7 @@ ML-powered agricultural recommendation platform.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yugg04&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugg04&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=7F5AF0"/>
 </p>
-
+```
