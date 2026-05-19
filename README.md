@@ -1,4 +1,4 @@
-````md id="d9q2ma"
+
 <!-- HEADER -->
 
 <h1 align="center">Hey 👋 I'm Yug Khatri</h1>
@@ -161,4 +161,4 @@ ML-powered agricultural recommendation platform.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=7F5AF0"/>
 </p>
-```
+
