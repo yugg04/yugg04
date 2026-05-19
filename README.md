@@ -152,23 +152,24 @@ Machine learning platform designed to recommend optimal crops using environmenta
 
 ---
 
-# 🛠️ Languages & Tools
+# 🛠️ Tech Stack
 
-<div align="center">
+## Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,fastapi,django,flask,react,nextjs,mongodb,mysql,postgres,docker,git,github,vscode&theme=dark"/>
+## Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,react,nextjs" />
+</p>
 
-</div>
+## Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github,vscode" />
+</p>
 
-<br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugg04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
