@@ -1,38 +1,58 @@
 
-<h3 align="center">Hi 👋, I'm</h3>
-<h1 align="center">Yug Khatri</h1>
-<h3 align="center">AI Engineer • GenAI Systems Developer • Python Backend Builder</h3>
+<!-- HEADER BANNER -->
+
+<h1 align="center">Hey 👋 I'm Yug Khatri</h1>
+
+<h3 align="center">
+AI Engineer • GenAI Systems Developer • FastAPI Backend Builder
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;RAG+Pipelines+%2B+LLM+Applications;FastAPI+%2B+AI+Infrastructure;GenAI+Engineer+Focused+on+Deployment" />
+</p>
+
+---
+
+<!-- SOCIALS -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yug04/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://yugkhatri04.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="mailto:yugkhatri209@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Production-Ready+AI+Systems;RAG+Pipelines+%2B+LLM+Applications;FastAPI+%2B+ML+Infrastructure;AI+Engineering+Focused&center=true&width=600&height=45">
+  <a href="https://yugkhatri04.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yugkhatri209@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # ⚡ Engineering Focus
 
-I build production-oriented AI systems focused on:
+```python
+class YugKhatri:
 
-- Retrieval-Augmented Generation (RAG)
-- LLM application engineering
-- FastAPI backend systems
-- ML deployment pipelines
-- Structured AI outputs
-- Scalable AI architecture
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.specialization = [
+            "RAG Systems",
+            "LLM Applications",
+            "FastAPI Backends",
+            "AI Infrastructure"
+        ]
 
-Rather than building demo-only projects, I focus on systems that are modular, deployable, and API-ready.
+    def build(self):
+        return [
+            "Production AI Systems",
+            "Retrieval Pipelines",
+            "Inference APIs",
+            "Scalable AI Services"
+        ]
+````
 
 ---
 
@@ -40,150 +60,114 @@ Rather than building demo-only projects, I focus on systems that are modular, de
 
 ## 🧠 Ragora AI — Multi-Document RAG Platform
 
-Production-oriented RAG system designed for intelligent document interaction.
+> Production-oriented RAG architecture for intelligent document interaction.
 
-### Core Features
-- Multi-PDF ingestion pipeline
-- Semantic chunking & vector retrieval
-- Context-grounded conversational responses
-- Source citation tracing
-- Persistent vector database support
-- FastAPI backend architecture
-- Modular retrieval pipeline
+✨ Features:
 
-### AI Stack
-- Mistral AI
-- LangChain
-- ChromaDB
-- Sentence Transformers
-- FastAPI
+* Multi-document semantic retrieval
+* Source-grounded conversational AI
+* Persistent vector storage
+* Modular ingestion pipeline
+* FastAPI backend architecture
+* Context-aware response generation
 
-### Engineering Highlights
-- Optimized retrieval flow for lower hallucination
-- Clean separation between ingestion & inference layers
-- API-first architecture for future scalability
-- Modular embedding pipeline
+⚙️ Stack:
 
-**Tech:**  
-`Python` `FastAPI` `LangChain` `Mistral AI`
-`ChromaDB` `SentenceTransformers` `Docker`
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,mongodb"/>
+</p>
+
+`LangChain` `ChromaDB` `Mistral AI`
+`SentenceTransformers`
 
 ---
 
 ## 📄 Docnify — AI Document Reader
 
-AI-powered platform enabling users to upload PDFs and interact conversationally with documents.
+AI platform enabling conversational interaction with uploaded documents.
 
-### Features
-- Retrieval-Augmented Generation pipeline
-- Semantic document search
-- Context-aware answer generation
-- Source chunk visibility
-- Streamlit-based interactive UI
+### Highlights
 
-**Tech:**  
-`Python` `LangChain` `Mistral AI`
-`ChromaDB` `Streamlit`
+* Retrieval-Augmented Generation pipeline
+* Semantic search architecture
+* Source chunk tracing
+* Streamlit interactive interface
 
 ---
 
 ## 🎬 Cinelexis — GenAI Movie Intelligence Extractor
 
-LLM-powered system converting unstructured movie descriptions into validated structured outputs.
+LLM-based structured extraction engine converting raw movie descriptions into validated JSON outputs.
 
-### Features
-- Intelligent metadata extraction
-- Structured JSON generation
-- Pydantic schema validation
-- Parsing & formatting pipeline
+### Highlights
 
-**Tech:**  
-`Python` `LangChain`
-`Pydantic` `Mistral AI`
-`Streamlit`
+* Schema-validated AI outputs
+* Pydantic parsing layer
+* Structured metadata extraction
+* LangChain orchestration
 
 ---
 
 ## 🌱 AgroSmart — Crop Recommendation System
 
-Machine learning system for crop prediction using environmental and soil parameters.
+ML-powered agricultural recommendation platform.
 
-### Features
-- NPK + climate-based predictions
-- Ranked crop recommendations
-- Multi-service application architecture
-- ML inference integration
+### Highlights
 
-**Tech:**  
-`React` `Spring Boot`
-`Python` `scikit-learn`
+* Soil + environmental prediction system
+* Multi-service architecture
+* React + Spring Boot integration
+* ML inference pipeline
 
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
-`Python` `SQL` `JavaScript`
+<p align="center">
 
-## AI / ML
-`Machine Learning`
-`Deep Learning`
-`NLP`
-`Transformers`
-`LLMs`
-`RAG Pipelines`
-`Hugging Face`
+<img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,django,flask,react,mongodb,mysql,docker,git,github,vscode"/>
 
-## Backend & APIs
-`FastAPI`
-`Flask`
-`Django`
-`REST APIs`
-
-## Databases
-`MongoDB`
-`MySQL`
-`ChromaDB`
-
-## Dev Tools
-`Docker`
-`Git`
-`GitHub`
-`Pandas`
-`NumPy`
+</p>
 
 ---
 
-# 🧪 Experience
+# 📊 GitHub Analytics
 
-## AI/ML Intern — AICTE Edunet Foundation (2026)
+<p align="center">
 
-- Developed ML workflows using Pandas & NumPy
-- Built data preprocessing pipelines
-- Worked on visualization & model experimentation
-- Improved understanding of production ML lifecycle
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yugg04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugg04&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 📜 Certifications
-
-- Python for Data Science — NPTEL
-- AI Fundamentals — IBM
+</p>
 
 ---
 
-# 📈 Current Focus
+# 🔥 Contribution Streak
 
-- Advanced RAG systems
-- LLM orchestration
-- AI backend engineering
-- Production-grade FastAPI systems
-- AI infrastructure & deployment
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugg04&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yugg04&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugg04&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yugg04&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=blueviolet"/>
 </p>
-```
 
