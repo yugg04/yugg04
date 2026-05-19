@@ -1,28 +1,34 @@
 
 <!-- HEADER -->
 
-<h1 align="center">Hey 👋 I'm Yug Khatri</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Engineering Student • Python Developer • AI/ML & GenAI Developer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00C2FF&height=260&section=header&text=Yug%20Khatri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20AI/ML%20%20GenAI%20Developer&descAlignY=60&descSize=20"/>
 
-<p align="center">
-I’m a Computer Engineering student passionate about building practical AI applications and scalable backend systems.
-I enjoy working on RAG pipelines, LLM applications, FastAPI services, and production-focused AI projects.
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3200&pause=900&color=7F5AF0&center=true&vCenter=true&width=1000&lines=Building+Production-Ready+AI+Systems;RAG+Pipelines+%2B+LLM+Applications;FastAPI+%2B+Backend+Infrastructure;Turning+AI+Ideas+Into+Real+Products" />
 
-<!-- ANIMATED TYPING -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=Building+Production-Grade+AI+Systems;RAG+Pipelines+%2B+LLM+Applications;FastAPI+%2B+AI+Infrastructure;Turning+AI+Ideas+Into+Real+Products"/>
-</p>
+</div>
 
 ---
 
-<!-- SOCIALS -->
+# 👋 About Me
+
+I’m a Computer Engineering student passionate about building practical AI products and scalable backend systems.
+
+Most of my work focuses on:
+- Retrieval-Augmented Generation (RAG)
+- LLM-powered applications
+- FastAPI backend systems
+- AI infrastructure & deployment
+- Production-oriented architecture
+
+I enjoy transforming AI concepts into usable, deployable products instead of demo-only projects.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -46,111 +52,107 @@ I enjoy working on RAG pipelines, LLM applications, FastAPI services, and produc
 
 ---
 
-# ⚡ About Me
-
-```python
-class YugKhatri:
-
-    def __init__(self):
-        self.role = [
-            "Python Developer",
-            "AI/ML Developer",
-            "GenAI Developer"
-        ]
-
-        self.interests = [
-            "RAG Systems",
-            "LLM Applications",
-            "FastAPI Backends",
-            "AI Infrastructure"
-        ]
-
-    def build(self):
-        return [
-            "Production AI Systems",
-            "Scalable APIs",
-            "Intelligent Applications"
-        ]
-````
+# 🚀 Featured Projects
 
 ---
 
-# 🚀 Featured Projects
+## 🧠 Ragora AI — Enterprise RAG Platform
 
-## 🧠 Ragora AI — Multi-Document RAG Platform
+Production-grade Retrieval-Augmented Generation infrastructure designed for scalable semantic retrieval and conversational AI.
 
-Production-oriented RAG system designed for intelligent document interaction.
+### ✨ Highlights
+- Multi-document semantic retrieval
+- Streaming conversational AI
+- Context-grounded responses
+- Modular ingestion pipeline
+- Authentication & protected APIs
+- Dockerized deployment architecture
 
-### ✨ Features
-
-* Multi-document semantic retrieval
-* Source-grounded conversational AI
-* Persistent vector storage
-* Modular ingestion pipeline
-* FastAPI backend architecture
-* Context-aware response generation
-
-### ⚙️ Stack
+### ⚙️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,python,fastapi,postgres,docker"/>
 </p>
 
-`LangChain` `ChromaDB` `Mistral AI`
-`SentenceTransformers`
+`LangChain` `ChromaDB` `JWT` `TailwindCSS`
+`SentenceTransformers` `LLM APIs`
 
 ---
 
 ## 📄 Docnify — AI Document Reader
 
-AI-powered platform enabling conversational interaction with uploaded documents.
+AI-powered document intelligence platform enabling users to upload PDFs and interact conversationally with documents.
 
-### Highlights
+### ✨ Highlights
+- Retrieval-Augmented Generation pipeline
+- Semantic vector search
+- Source chunk tracing
+- Context-aware AI responses
+- Interactive Streamlit interface
 
-* Retrieval-Augmented Generation pipeline
-* Semantic search architecture
-* Source chunk tracing
-* Streamlit interactive interface
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`LangChain` `Mistral AI`
+`ChromaDB` `Streamlit`
 
 ---
 
 ## 🎬 Cinelexis — GenAI Movie Intelligence Extractor
 
-LLM-powered extraction engine converting raw movie descriptions into validated structured outputs.
+LLM-powered extraction engine converting raw movie descriptions into validated structured JSON outputs.
 
-### Highlights
+### ✨ Highlights
+- Structured metadata extraction
+- Schema-validated outputs
+- Pydantic parsing layer
+- Intelligent text processing pipeline
 
-* Schema-validated AI outputs
-* Pydantic parsing layer
-* Structured metadata extraction
-* LangChain orchestration
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`LangChain` `Pydantic`
+`Mistral AI` `Streamlit`
 
 ---
 
 ## 🌱 AgroSmart — Crop Recommendation System
 
-ML-powered agricultural recommendation platform.
+Machine learning platform designed to recommend optimal crops based on environmental and soil conditions.
 
-### Highlights
+### ✨ Highlights
+- Soil & climate-based prediction
+- Multi-service architecture
+- ML inference pipeline
+- Integrated frontend/backend system
 
-* Soil + environmental prediction system
-* Multi-service architecture
-* React + Spring Boot integration
-* ML inference pipeline
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,java,python"/>
+</p>
+
+`Spring Boot` `scikit-learn`
 
 ---
 
 # 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,django,flask,react,mongodb,mysql,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,fastapi,django,flask,react,nextjs,mongodb,mysql,postgres,docker,git,github,vscode"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugg04&theme=tokyonight&hide_border=true"/>
@@ -158,7 +160,9 @@ ML-powered agricultural recommendation platform.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=7F5AF0"/>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=7F5AF0"/>
+
+</div>
 
