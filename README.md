@@ -171,13 +171,14 @@ Machine learning platform designed to recommend optimal crops using environmenta
 
 
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugg04&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yugg04&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6" 
+    alt="GitHub Streak"
+  />
 </p>
-
----
 
 <div align="center">
 
