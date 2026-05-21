@@ -175,14 +175,17 @@ Machine learning platform designed to recommend optimal crops using environmenta
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yugg04&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=yugg04&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=38BDF8&fire=06B6D4&currStreakLabel=14B8A6&sideNums=FFFFFF&currStreakNum=38BDF8&sideLabels=94A3B8&dates=64748B" 
     alt="GitHub Streak"
   />
 </p>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=2563EB"/>
+<img 
+  src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" 
+  alt="Profile Views"
+/>
 
 </div>
 
