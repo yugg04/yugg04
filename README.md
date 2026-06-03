@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,25:1E3A8A,50:2563EB,75:06B6D4,100:14B8A6&height=300&section=header&text=Yug%20Khatri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Python%20Developer%20%7C%20AI%2FML%20%26%20GenAI%20Developer&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1026,25:1E3A8A,50:2563EB,75:06B6D4,100:14B8A6&section=header&text=Yug%20Khatri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Python%20Developer%20|%20AI-ML%20GenAI%20Developer&descAlignY=60&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&lines=Building+Practical+AI+Applications;RAG+Pipelines+%2B+LLM+Systems;FastAPI+%2B+Scalable+Backend+Engineering;Turning+Ideas+Into+Real+AI+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=1100&lines=Building+Practical+AI+Applications;RAG+Pipelines+and+LLM+Systems;FastAPI+and+Scalable+Backend+Engineering;Turning+Ideas+Into+Real+AI+Products"/>
 
 </div>
 
