@@ -244,42 +244,29 @@ Emotion detection and sentiment understanding system leveraging AI techniques fo
 
 ---
 
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yugg04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugg04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yugg04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugg04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yugg04&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=yugg04&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugg04&theme=tokyonight" />
 </p>
 
 ---
 
-
-# 📈 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugg04&theme=github_dark" />
-</p>
-
----
 
 # 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugg04&theme=github-dark&hide_border=true&area=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yugg04/yugg04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
