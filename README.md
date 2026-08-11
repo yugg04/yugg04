@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A11CB,50:8E2DE2,100:2575FC&text=Yug%20Khatri&fontSize=55&fontColor=ffffff&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,35:312E81,65:6D28D9,100:06B6D4&text=YUG%20KHATRI&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI%2FML+Developer;Generative+AI+Engineer;Backend+Developer;Building+Practical+AI+Applications"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI%2FML+Developer;Generative+AI+Developer;Machine+Learning+%7C+NLP;LLMs+%7C+RAG+%7C+Vector+Search;Building+Practical+AI+Applications"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=yugg04&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/followers/yugg04?style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/followers/yugg04?style=for-the-badge&color=6D28D9"/>
 
-<img src="https://img.shields.io/github/stars/yugg04?style=for-the-badge&color=6A11CB"/>
+<img src="https://img.shields.io/github/stars/yugg04?style=for-the-badge&color=0891B2"/>
 
 <br><br>
 
 <a href="https://yugkhatri04.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6A11CB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yug04/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yugkhatri209@gmail.com">
@@ -34,267 +34,328 @@
 
 ---
 
-# About Me
+# 🧠 About Me
 
-Computer Engineering Student passionate about Artificial Intelligence, Machine Learning, Generative AI, and Backend Development.
+Computer Engineering student focused on **Artificial Intelligence, Machine Learning, and Generative AI**.
 
-My primary interests include Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing, Computer Vision, and scalable backend systems.
+I build practical AI applications involving **Machine Learning, Natural Language Processing, Large Language Models, Retrieval-Augmented Generation, vector embeddings, semantic search, and document intelligence**.
 
-I enjoy building practical AI-powered applications that solve real-world problems using modern machine learning and software engineering practices.
-
-### Open To
-
-- AI/ML Internships
-- Generative AI Projects
-- Open Source Contributions
-- Hackathons
-- Backend Development Opportunities
+My work focuses on turning AI concepts into **usable, real-world applications** by combining models, data, retrieval systems, and backend services.
 
 ---
 
-# Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-## Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,mongodb,mysql" />
-</p>
-
-## AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-Scikit-Learn • Pandas • NumPy • LangChain • Hugging Face • NLP • RAG Pipelines
-
-## DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>🧠 Ragora AI</b></summary>
-
-### Overview
-
-AI-powered Retrieval-Augmented Generation platform designed for intelligent document interaction and contextual question answering.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Python, LangChain, Vector Database |
-| AI | LLM + RAG |
-| Search | Semantic Search |
-| Use Case | Knowledge Retrieval |
-| Repository | https://github.com/yugg04/Ragora-ai |
-
-### Highlights
-
-- Retrieval-Augmented Generation workflow
-- Intelligent document understanding
-- Semantic search implementation
-- Context-aware answer generation
-
-</details>
-
-<br>
-
-<details>
-<summary><b>📄 Docnify RAG Reader</b></summary>
-
-### Overview
-
-AI-powered PDF chat application that allows users to upload documents and ask questions using natural language.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Python, LangChain, Streamlit, ChromaDB |
-| AI Model | LLM Integration |
-| Architecture | RAG Pipeline |
-| Search | Semantic Retrieval |
-| Repository | https://github.com/yugg04/Docnify-RAG-Reader |
-
-### Highlights
-
-- PDF-based conversational AI
-- Vector embeddings
-- Context-aware document querying
-- Intelligent information retrieval
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🏙️ UrbanLens AI</b></summary>
-
-### Overview
-
-Computer vision focused project designed to analyze and understand urban environments using AI-driven techniques.
-
-| Category | Details |
-|-----------|-----------|
-| Domain | Computer Vision |
-| AI | Deep Learning |
-| Application | Urban Analytics |
-| Repository | https://github.com/yugg04/Urbanlens-ai |
-
-### Highlights
-
-- Visual data analysis
-- AI-powered image understanding
-- Real-world urban insights
-- Scalable AI workflow
-
-</details>
-
-<br>
-
-<details>
-<summary><b>😊 NeuroPulse – AI Powered Emotion Sense</b></summary>
-
-### Overview
-
-Emotion detection and sentiment understanding system leveraging AI techniques for human emotion analysis.
-
-| Category | Details |
-|-----------|-----------|
-| Domain | Emotion Recognition |
-| AI | Machine Learning |
-| Use Case | Human Emotion Analysis |
-| Repository | https://github.com/yugg04/NeuroPulse-Ai-powered-emotion-sense |
-
-### Highlights
-
-- Emotion classification
-- Human-centric AI application
-- Predictive emotion analysis
-- Practical AI implementation
-
-</details>
-
----
-
-# Experience
-
-## AI/ML Intern — AICTE & Edunet Foundation
-
-**January 2026 – February 2026**
-
-### Responsibilities
-
-- Data preprocessing and analysis using Python
-- Built machine learning models
-- Data visualization using Matplotlib
-- Worked with Pandas and NumPy
-- Applied practical AI/ML workflows
-
-### Technologies
-
-`Python` `Machine Learning` `Pandas` `NumPy` `Data Analysis`
-
----
-
-# Certifications
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-blue?style=for-the-badge)
-
-### IBM
-
-![IBM](https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals-blue?style=for-the-badge)
-
-### AICTE / Edunet Foundation
-
-![AICTE](https://img.shields.io/badge/AICTE-AI%20%26%20ML%20Internship-blue?style=for-the-badge)
-
----
-
-# Coding Profiles
+# ⚙️ AI / ML Tech Stack
 
 <div align="center">
 
-<a href="https://leetcode.com/u/yug_209/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+### 🐍 Programming
 
-<a href="https://github.com/yugg04">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<br><br>
+
+### 🤖 Machine Learning
+
+`Scikit-Learn` • `Pandas` • `NumPy` • `Matplotlib`
+
+`Classification` • `Regression` • `Feature Engineering` • `Model Evaluation`
+
+<br>
+
+### ✨ Generative AI
+
+`Large Language Models` • `Mistral AI` • `LangChain`
+
+`RAG` • `Vector Embeddings` • `Semantic Search`
+
+`Prompt Engineering` • `Document AI` • `Context Retrieval`
+
+<br>
+
+### 💬 Natural Language Processing
+
+`Text Processing` • `Text Classification` • `Sentiment Analysis`
+
+`Embeddings` • `Semantic Retrieval` • `Context-Aware Generation`
+
+<br>
+
+### 🗃️ Data & AI Infrastructure
+
+`Vector Databases` • `ChromaDB` • `Document Processing`
+
+`REST APIs` • `PostgreSQL` • `MongoDB`
+
+<br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yugg04&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugg04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yugg04&theme=tokyonight&hide_border=true" />
-</p>
-
-
-# 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugg04&theme=github-dark&hide_border=true&area=true" />
-</p>
-
----
-
-# Connect
+# 🚀 Featured Projects
 
 <div align="center">
 
-<a href="mailto:yugkhatri209@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+AI+Systems;Generative+AI+%2B+Machine+Learning;From+Models+to+Real+Applications"/>
+
+</div>
+
+---
+
+## 🏆 TenderNova
+
+<div align="center">
+
+### AI-Powered Tender Intelligence & Procurement Platform
+
+<img src="https://img.shields.io/badge/AI%20%2B%20RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-MISTRAL-FF7000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Document%20AI-4F46E5?style=for-the-badge"/>
+
+</div>
+
+TenderNova is a full-stack **AI-powered tender intelligence platform** designed to analyze tender documents and support procurement decisions using **LLMs, RAG, semantic retrieval, embeddings, and document intelligence**.
+
+### 🧠 AI Capabilities
+
+* 📄 Tender document processing
+* 🔍 Automatic tender information extraction
+* 🧠 Retrieval-Augmented Generation
+* 🔎 Semantic document retrieval
+* 💬 Document-aware AI chat
+* 📊 AI-powered tender comparison
+* ✍️ AI proposal generation
+* 🧩 Vector embeddings
+* 🤖 Mistral AI integration
+* 🔑 Multi-provider AI/API key failover
+* 📚 Context-aware answer generation
+
+### 🔥 RAG Pipeline
+
+```text
+                  TENDER DOCUMENT
+                         │
+                         ▼
+                 Text Extraction
+                         │
+                         ▼
+                    Chunking
+                         │
+                         ▼
+                  Embeddings
+                         │
+                         ▼
+                 Vector Search
+                         │
+                         ▼
+                Relevant Context
+                         │
+                         ▼
+                   Mistral LLM
+                         │
+                         ▼
+               Contextual Response
+```
+
+### ⚙️ Supporting Technology
+
+`Spring Boot` • `PostgreSQL` • `REST APIs` • `JWT` • `JPA/Hibernate`
+
+---
+
+## 🧠 Ragora AI
+
+### Retrieval-Augmented Generation Platform
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-2563EB?style=flat-square"/>
+
+AI-powered Retrieval-Augmented Generation application for intelligent document interaction and contextual question answering.
+
+### Highlights
+
+* Retrieval-Augmented Generation workflow
+* Semantic document retrieval
+* Vector-based knowledge retrieval
+* Context-aware LLM responses
+* Document understanding
+* Knowledge retrieval
+
+<a href="https://github.com/yugg04/Ragora-ai">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 📄 Docnify RAG Reader
+
+### AI-Powered PDF Assistant
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
+
+AI-powered PDF chat application that allows users to upload documents and interact with them using natural language.
+
+### 🔥 RAG Workflow
+
+```text
+PDF
+ ↓
+Text Extraction
+ ↓
+Chunking
+ ↓
+Embeddings
+ ↓
+ChromaDB
+ ↓
+Semantic Retrieval
+ ↓
+Relevant Context
+ ↓
+LLM
+ ↓
+Answer
+```
+
+### Highlights
+
+* PDF document processing
+* Vector embeddings
+* Semantic retrieval
+* Context-aware question answering
+* Conversational document interaction
+* RAG-based knowledge retrieval
+
+<a href="https://github.com/yugg04/Docnify-RAG-Reader">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 😊 NeuroPulse
+
+### AI-Powered Emotion Sense
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Emotion%20AI-0891B2?style=flat-square"/>
+
+Machine-learning application focused on **emotion classification and sentiment understanding**.
+
+### Highlights
+
+* Emotion classification
+* Sentiment analysis
+* NLP-based processing
+* Predictive emotion analysis
+* Human-centered AI application
+* Interactive AI workflow
+
+<a href="https://github.com/yugg04/NeuroPulse-Ai-powered-emotion-sense">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-0056D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals-052FAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AICTE-AI%20%26%20ML%20Internship-7C3AED?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🧩 Coding Profile
+
+<div align="center">
+
+<a href="https://leetcode.com/u/yug_209/">
+
+<img src="https://img.shields.io/badge/LeetCode-yug__209-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/yug_209?theme=dark&font=baloo&ext=heatmap"/>
+
+</div>
+
+---
+
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yugg04&theme=tokyo-night&hide_border=true&area=true&custom_title=Yug%20Khatri%20-%20Contribution%20Activity"/>
+
+</div>
+
+---
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=yugg04&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+%2B+Machine+Learning+Systems;Generative+AI+%7C+RAG+%7C+NLP;Turning+Ideas+Into+Working+Applications"/>
+
+</div>
+
+
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://yugkhatri04.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yug04/">
-<img src="https://img.shields.io/badge/LinkedIn-Yug%20Khatri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Yug%20Khatri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yugg04">
 <img src="https://img.shields.io/badge/GitHub-yugg04-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://yugkhatri04.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6A11CB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:yugkhatri209@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%7C+Machine+Learning;Generative+AI+%7C+RAG+%7C+NLP;Build+%E2%80%A2+Learn+%E2%80%A2+Solve+%E2%80%A2+Ship"/>
+
+</div>
 
 <br>
 
 <div align="center">
 
-### Connect • Build • Learn • Create
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F172A,35:312E81,65:6D28D9,100:06B6D4&animation=twinkling"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,50:8E2DE2,100:2575FC"/>
