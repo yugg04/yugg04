@@ -312,7 +312,11 @@ Machine-learning application focused on **emotion classification and sentiment u
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yugg04&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+<h2>GitHub Activity</h2>
+
+<a href="https://github.com/yugg04">
+  <img src="https://github-readme-stats.vercel.app/api?username=yugg04&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+</a>
 
 </div>
 
